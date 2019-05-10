@@ -31,5 +31,5 @@ $ pip install -r requirements.txt
 
 Now you can run the script:
 ```
-python pip_test.py
+python script.py
 ```
