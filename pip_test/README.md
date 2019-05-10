@@ -17,11 +17,11 @@ $ source tutorial_2-env/Scripts/activate
 
 The next thing you'll need to do is to clone this repository (Use GIT CLONE or PIP INSTALL):
 ```
-$ pip install git+https://github.com/marcuselmgreen/test_pip.git
+$ pip install git+https://github.com/marcuselmgreen/pip_test.git
 
 # or
 
-$ git clone https://github.com/marcuselmgreen/test_pip.git
+$ git clone https://github.com/marcuselmgreen/pip_test.git
 ```
 
 To run the project you need to install the dependency - simple_colors:
