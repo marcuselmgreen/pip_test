@@ -1,5 +1,5 @@
 # Simple Colors exam project test
-This project makes use of simple_colors, that makes it possible to change the color of a text print.
+This project makes use of simple_colors to be able to change the color of a text print.
 
 ## Installation
 First you'll want to use a virtual enviroment.
